@@ -56,7 +56,8 @@ Backend do app Haitatsu, desenvolvido com  Node e [Express](https://github.com/e
 
 ## Como instalar?
 
-Antes de tudo, instale o [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/) e o [Node.js](https://nodejs.org/en/download/).
+Antes de tudo, instale o [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/) e o [Node.js](https://nodejs.org/en/download/). Recomendo que troque o link local host pelo IP da sua máquina seguido da porta que será utilizada, exemplo: ```http://192.168.0.62:3001```. Isso para que não haja problemas para rodar a aplica mobile android, que não reconhece porta com localhost.
+
 
 1. Instale o [Docker](https://www.docker.com/).
 

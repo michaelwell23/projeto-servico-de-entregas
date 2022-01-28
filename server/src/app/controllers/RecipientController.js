@@ -9,16 +9,6 @@ class RecipientController {
         name: {
           [Op.iLike]: `%${req.query.q || ''}`,
         },
-        attribute: [
-          'id',
-          'name',
-          'street',
-          'number',
-          'add_on',
-          'state',
-          'city',
-          'zipcode',
-        ],
       },
     });
 
@@ -82,7 +72,7 @@ class RecipientController {
       add_on: Yup.string(),
       state: Yup.string(),
       city: Yup.string(),
-      zipcode: Yup.code(),
+      zipcode: Yup.string(),
     });
 
     if (!(await schema.isValid(req.body))) {

@@ -202,6 +202,7 @@ class DeliveryController {
     }
 
     const delivery = await Delivery.findByPk(req.params.id);
+    console.log(delivery);
 
     const { id, product } = await delivery.update(req.body);
 
