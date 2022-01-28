@@ -18,10 +18,11 @@
 </a>
 
 ---
+<p align="center">
   <img alt="Login" src="./.github/login.png" width="700px" style="float: right" />
   <img alt="Deliveries" src="./.github/deliveries.png" width="700px" style="float: left" />
   <img alt="Deliveryman" src="./.github/deliverymen.png" width="700px" style="float: right" />
-
+</p>
 
 Página Web do app Haitatsu, desenvolvido com [ReactJS](https://github.com/facebook/react).
 
