@@ -75,7 +75,6 @@ http://localhost:3000
 # Senha: 123456
 ```
 
-#### OBS: Esta página Web tem **resposividade**, no entanto, utilize telas com largura maior que **700px** para melhor experiência.
 
 
 ---
