@@ -18,13 +18,11 @@
 </a>
 
 ---
-  <img alt="Login" src="./.github/login.png" width="500px"/>
-  <img alt="Deliveries" src="./.github/deliveries.png" width="500px"/>
-  <img alt="Deliveryman" src="./.github/deliverymen.png" width="500px"/>
-  <img alt="Deliveryman" src="./.github/recipients.png" width="500px"/>
-  <p align="center">
-    <img alt="Deliveryman" src="./.github/problems.png" width="500px"/>
-  </p>
+<p align="center">
+  <img alt="Login" src="./.github/login.png" width="800px" " />
+  <img alt="Deliveries" src="./.github/deliveries.png" width="800px" />
+  <img alt="Deliveryman" src="./.github/deliverymen.png" width="800px" />
+</p>
 
 Página Web do app Haitatsu, desenvolvido com [ReactJS](https://github.com/facebook/react).
 
@@ -77,9 +75,6 @@ http://localhost:3000
 # Login: admin@Haitatsu.com
 # Senha: 123456
 ```
-
-#### OBS: Esta página Web tem **resposividade**, no entanto, utilize telas com largura maior que **700px** para melhor experiência.
-
 
 ---
 ## :memo: Licença
