@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Haitatsu" title="Haitatsu" src="../.github/logo.png" width="400px" />
+  <img alt="Haitatsu" title="Haitatsu" src="./.github/logo.png" width="400px" />
 </h1>
 
 <p align="center">
