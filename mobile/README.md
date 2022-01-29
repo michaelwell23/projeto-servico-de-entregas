@@ -87,7 +87,7 @@ $ react-native run-ios
 ---
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/michaelwell23/projeto-servico-de-entregas/blob/master/LICENSE) para mais detalhes.
 
 Feito com :purple_heart: by [Michael W.Lopes](https://github.com/michael23-lopes)
 
