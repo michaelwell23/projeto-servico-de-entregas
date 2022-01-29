@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="haitatsu" title="Haitatsu" src="./.github/logo.png" width="400px" />
+  <img alt="haitatsu" title="Haitatsu" src="./server/.github/logo.png" width="400px" />
 </h1>
 
 <p align="center">
@@ -16,11 +16,11 @@
 ### Tecnologias utilizadas
 
 <p align="center">
-  <a href="https://github.com/michaelwell23/projeto-servico-de-entregas/tree/master/server"><img src="./.github/nodejs.svg" alt="Node.Js" />
+  <a href="https://github.com/michaelwell23/projeto-servico-de-entregas/tree/master/server"><img src="./server/.github/nodejs.svg" alt="Node.Js" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="./.github/reactjs.svg" alt="ReactJS">
+  <a href=""><img src="./server/.github/reactjs.svg" alt="ReactJS">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="./.github/reactnative.svg" alt="React Native"/>
+  <a href=""><img src="./server/.github/reactnative.svg" alt="React Native"/>
   </a>
 </p>
 
