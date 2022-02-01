@@ -61,7 +61,7 @@ Antes de tudo, instale o [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/)
 $ git clone https://github.com/michaelwell23/projeto-servico-de-entregas
 ```
 ```
-$ cd Haitatsu/mobile
+$ cd projeto-srvico-de-entregas/mobile
 ```
 
 2. Instale todas as dependências:
