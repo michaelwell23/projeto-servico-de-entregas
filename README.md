@@ -18,9 +18,9 @@
 <p align="center">
   <a href="https://github.com/michaelwell23/projeto-servico-de-entregas/tree/master/server"><img src="./server/.github/nodejs.svg" alt="Node.Js" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="./server/.github/reactjs.svg" alt="ReactJS">
+  <a href="https://github.com/michaelwell23/projeto-servico-de-entregas/tree/master/web"><img src="./server/.github/reactjs.svg" alt="ReactJS">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="./server/.github/reactnative.svg" alt="React Native"/>
+  <a href="https://github.com/michaelwell23/projeto-servico-de-entregas/tree/master/mobile"><img src="./server/.github/reactnative.svg" alt="React Native"/>
   </a>
 </p>
 
